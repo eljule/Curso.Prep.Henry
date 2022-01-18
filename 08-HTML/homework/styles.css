@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://media.istockphoto.com/vectors/gray-doodle-vegetables-fruits-and-utensils-isolated-on-white-vector-vector-id1098006112?k=20&m=1098006112&s=612x612&w=0&h=w-gKlnE9dCDi8uHste1P2wcDUwOHaWxCBr-ItSOiAWg=);
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: brown;
+}
+
+img{
+    width: 400px;
+    height: 280px;
+}
+
+#main{
+    /* width: 500px;
+    margin: 0 auto; */
+}
+.divClass{
+    width: 500px;
+    text-align: center;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color:white;
+    padding: 30px;
+    border-width: 2px;
+    border-color: blueviolet;
+    border-style: double;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
